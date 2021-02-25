@@ -1,0 +1,10 @@
+Package: piculator-chinese-support
+Architecture: armhf
+Name: piculator-chinese-support
+Description: Chinese support for Piculator
+Version: 1.0-1
+Section: base
+Depends: fonts-wqy-zenhei, fonts-wqy-microhei, fcitx, fcitx-googlepinyin
+Author: Piculator Development Team <piculator@protonmail.com>
+Maintainer: Piculator Development Team <piculator@protonmail.com>
+HomePage: https://github.com/piculator/piculator-chinese-support

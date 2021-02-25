@@ -1,0 +1,8 @@
+fc-cache
+echo "中文支持软件包已安装, 但您仍需手动设置一些选项"
+echo "----------------------------"
+echo "运行 im-config 更新输入法设置, 选中 fcitx"
+echo "然后您可能需要重启系统"
+echo "重启之后, 右击 fcitx 的托盘图标, 选择 Configure Current Input Method"
+echo "添加输入法, 选择谷歌拼音输入法"
+echo "----------------------------"
